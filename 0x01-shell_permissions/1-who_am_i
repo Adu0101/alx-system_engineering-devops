@@ -1,2 +1,3 @@
 #!/bin/bash
-/tmp/h$ ./sudo 1-who_am_i
+/tmp/h$ ./ 1-who_am_i
+root
